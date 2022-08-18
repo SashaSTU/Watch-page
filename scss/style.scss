@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'League Spartan', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    vh: 100%;
+    vw: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    width: 1440px;
+    height: 900px;
+    padding-bottom: 176px;
+    background-color:#F8F8F8;
+}
+
+h1 {
+    margin-top: 104px;
+    margin-left: 133px;
+    margin-bottom: 53px;
+    width: 135px;
+    height: 32px;
+    font-weight: 300;
+    font-size: 24px;
+    color: #161515;
+}
+
+.title{
+    margin-bottom: 43px;
+    margin-left: 133px;
+    font-weight: 300;
+    font-size: 250px;
+    line-height: 230px;
+    color: #272727;
+}
+
+.text{
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 155%;
+    color: #161515
+
+}
+
+.adout-whatch{
+    margin-left: 133px;
+    text-align: center;
+    width: 575px;
+    height: 142px;
+
+}
+.buy-watch{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.link{
+    margin-top: 67px;
+    width: 278px;
+    height: 82px;
+    background-color: #161515;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 82px;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+}
+
+.price{
+    margin-top: 67px;
+    padding-left: 28px;
+    width: 88px;
+    height: 38px;
+    font-weight: 300;
+    font-size: 32px;
+    color: #272727;
+    text-align: center;
+    line-height: 82px;
+}
+
+.header-img{
+    position: relative;     
+    margin-top: 4px;
+    margin-left: 240px;
+    margin-bottom: 176px;
+}
+
+.header-img-mor705{
+    position: absolute;
+    width: 408px;
+    height: 720px;
+}
+
+.maine{
+    width: 1440px;
+}
+
+.maine-titel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.popular-model{
+    margin-top: 43px;
+    margin-left: 621px;
+    width: 171px;
+    height: 41px;
+    font-weight: 300;
+    font-size: 24px;
+    color: #000000;
+}
+
+.model-card-title{
+    margin-left: 564px;
+    margin-bottom: 84px;
+    width: 285px;
+    height: 62px;
+    font-weight: 400;
+    font-size: 72px;
+    text-align: center;
+    color: #000000;
+}
+
+
+.model-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.img-wrapper-son22{
+    display: flex;
+    margin-left: 511px;
+    width: 417px;
+    height: 630px;
+    background-color: #F8F8F8;
+    
+}
+
+.img-son22{
+    padding: 110px 60px 110px 71px;
+}
+
+.model-card-subtitle{
+    
+    margin-top: 67px;
+    margin-left: 687px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 29px;
+    width: 285px;
+    height: 27px;
+}
+
+.model-card-desription-son22{
+    text-align: center;
+    margin-top: 17px;
+    margin-left: 465px;
+    width: 531px;
+    height: 194px;
+}
+
+.img-wrapper-sw12{
+    margin-top: 85px;
+    margin-left: 470px;
+    width: 500px;
+    height: 630px;
+    background-color: #F8F8F8;
+}
+.img-sw12{
+   padding: 65px 0px 65px 0px;
+   
+}
+
+.model-card-desription-sw12{
+    text-align: center;
+    margin-top: 17px;
+    margin-left: 465px;
+    width: 531px;
+    height: 194px;
+}
+
+.product-description{
+    width: 1440px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.subtitle{
+    margin-left: 450px;
+    width: 972px;
+    height: 50px;
+    line-height: 186%;
+    font-weight: 400;
+    font-size: 32px;
+    text-align:center;
+    text-transform: capitalize;
+    color: #161515;         
+}
+
+
+.item-desription{
+    margin-top: 49px;
+    margin-left: 464px;
+    margin-bottom: 40px ;
+    width: 515px;
+    height: 231px;
+    line-height: 170%;
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px;
+    color: #161515;
+  
+}
+
+
+.item-desription a{
+    color: #BB8B5D;
+    text-decoration: none;
+}
